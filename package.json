@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "HexCode#3764",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@discordjs/builders": "^1.4.0",
     "@discordjs/rest": "^1.5.0",
